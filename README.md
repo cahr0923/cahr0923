@@ -17,4 +17,4 @@ Como contactarme
 
 - cristianherrera1130@gmail.com
 - in/https://www.linkedin.com/in/cristian-herrera-5a18621ba/?trk=opento_sprofile_topcard/
-- Tel: +57 319-445-6968
+- Tel: +57 350-856-7395
