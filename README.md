@@ -16,5 +16,5 @@ Mi objetivo es poder aplicar los conocimientos adquiridos en mi formación en pr
 Como contactarme
 
 - cristianherrera1130@gmail.com
-- in/jefferson-chauta-ramirez-856330226/
+- in/https://www.linkedin.com/in/cristian-herrera-5a18621ba/?trk=opento_sprofile_topcard/
 - Tel: +57 319-445-6968
