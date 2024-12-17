@@ -1,16 +1,20 @@
-## Hi there 👋
+Hola soy 👋 Cristian Herrera Analista de datos y Tecnologo en Mantenimiento Electronico e Instrumentacion Industrial. Mayormente apasionada por los datos. Soy una persona proactiva, resolutiva y empática, con muchas ganas de perfeccionar mis habilidades y trabajar en proyectos. Me gusta mucho trabajar en equipo y aprender de los demas
 
-<!--
-**cahr0923/cahr0923** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¿Qué hago? Actualmete terminando el bootcamp de Data Analytics en Henry.
 
-Here are some ideas to get you started:
+¿A dónde me dirijo?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Mi objetivo es poder aplicar los conocimientos adquiridos en mi formación en problemas reales, utilizando los datos que se generan a diario para poder resolverlos, y junto con herramientas de análisis estadístico como Python, de visualizaciones como Power BI. Para poder ayudar a las empresas a tomar decisiones estratégicas basadas en información útil.
+
+¿Qué tecnología uso? Henry me a permitido adquirir el cnocimiento y experiencia para poder comenzar en el mundo de los datos. Las principales tecnología que manejo son:
+
+- Hojas de calculo de google
+- SQL server
+- Power BI
+- Python
+
+Como contactarme
+
+- cristianherrera1130@gmail.com
+- in/jefferson-chauta-ramirez-856330226/
+- Tel: +57 319-445-6968
